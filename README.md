@@ -1,6 +1,5 @@
-I'm an aspiring **backend developer**, currently diving deep into the **Java** ecosystem.
+I'm an aspiring **Backend Developer**, currently diving deep into **Java** and **Spring Boot**.
 
-Before diving into Java, I dedicated my studies to learning **Node.js**, building multiple personal projects using vanilla **JavaScript** and **TypeScript**.
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,typescript,mysql,postgresql,mongodb,java&theme=light)](https://skillicons.dev)
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600" />
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mongodb,docker,mysql,nodejs,javascript&theme=light)](https://skillicons.dev)
